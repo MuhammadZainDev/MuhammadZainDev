@@ -1,5 +1,5 @@
 # About:
-Building modern web & mobile applications at Tplex, along with developing AI-powered solutions.<br>Innovative projects in web, mobile apps, and AI — especially where new ideas meet real impact.<br>Scaling AI systems, advanced architectures, and exploring cutting-edge technologies.<br>Advanced AI engineering, system design, and staying aligned with the latest tech trends.<br>React, React Native, Node.js, AI tools, and building scalable full-stack applications.<br>I can quickly adapt to any modern tech stack — if it’s trending, I’m already on it.
+Building modern web & mobile applications at Tplex, along with developing AI-powered solutions.<br>Innovative projects in web, mobile apps, and AI especially where new ideas meet real impact.<br>Scaling AI systems, advanced architectures, and exploring cutting-edge technologies.<br>Advanced AI engineering, system design, and staying aligned with the latest tech trends.<br>React, React Native, Node.js, AI tools, and building scalable full-stack applications.<br>I can quickly adapt to any modern tech stack if it’s trending, I’m already on it.
 
 
 ## Socials:
